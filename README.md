@@ -3,7 +3,7 @@
 <h1 align="center">Hi <img src="https://github.com/muzzzammilg3/muzzzammilg3/blob/main/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="wave" height="35" width="35"/> , I'm Muzzammil Shaikh</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/muzzzammilg3/muzzzammilg3/blob/main/Coding-gif.gif">
+<img align="right" alt="coding" width="400" src="https://github.com/muzzzammilg3/muzzzammilg3/blob/main/Coding-image.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muzzzammilg3&label=Profile%20views&color=0e75b6&style=flat" alt="muzzzammilg3" /> </p>
 
