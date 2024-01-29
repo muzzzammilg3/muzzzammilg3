@@ -1,4 +1,4 @@
-![logo](https://github.com/muzzzammilg3/muzzzammilg3/blob/main/Green%20Professional%20Gamer%20LinkedIn%20Banner.png)
+![logo](https://github.com/muzzzammilg3/muzzzammilg3/blob/main/Green%20Professional%20Gamer%20LinkedIn%20Banner%20(1).png)
 
 <h1 align="center">Hi <img src="https://github.com/muzzzammilg3/muzzzammilg3/blob/main/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="wave" height="35" width="35"/> , I'm Muzzammil Shaikh</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
